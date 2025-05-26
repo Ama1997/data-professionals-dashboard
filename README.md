@@ -51,7 +51,6 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-Upload a screenshot of your dashboard and include it like this:
 
-```markdown
-![Dashboard Preview](dashboard_screenshot.png)
+(Dashboard_preview.png)
+
